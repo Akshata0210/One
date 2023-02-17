@@ -1,0 +1,34 @@
+#sample{
+   margin-left: 10px;
+ } 
+ h4 {
+  overflow: hidden;
+  text-align: center;
+}
+h4:before,
+h4:after {
+  background-color: #000;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 35%;
+}
+h4:before {
+  right: 0.5em;
+  margin-left: -80%;
+}
+h4:after {
+  left: 0.5em;
+  margin-right:-50rem;
+}
+h3{
+  margin-right:50rem;
+  font-size:1.4em;
+}
+.align-items-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
