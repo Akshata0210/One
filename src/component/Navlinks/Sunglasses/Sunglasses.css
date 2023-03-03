@@ -1,0 +1,14 @@
+.slider{
+    height: 160px;
+    width: auto;
+    border-color: rgb(252, 253, 255);
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+.column-left{
+    background-color: rgb(178, 225, 233);
+}
+.column-right{
+    background-color: rgb(243, 226, 230);
+}

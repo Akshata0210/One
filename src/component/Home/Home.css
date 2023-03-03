@@ -1,5 +1,11 @@
-#sample{
-   margin-left: 10px;
+.sample1{
+  width: 100%;
+}
+
+.sample{
+   margin-left: 20px;
+   margin-right: 20px;
+   
  } 
  h4 {
   overflow: hidden;

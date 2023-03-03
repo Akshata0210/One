@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.demo{
+    
+    font-size: 14px;
+    font-weight: 500;
+    width: 100%;
+    font-size: 15px;
+    justify-content: center;
+    text-align: center;
+    /* margin-left: 10px; 
+    margin-right: 10px; */
+    /* margin: 5px; */
+    
+    
+}
+.fnav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.fnav input{
+    width: 400px;
+    height: 27px;
+    border-radius: 3px;
+    text-align: center;
+    border: 2px solid gray;
+    margin-top: 19px;
+}
+.fnav p{
+    margin-top: 17px;
+    font-size: 17px;
+}
+

@@ -69,8 +69,33 @@ const Footer = () => {
         <div className='row'>
           <p className='col-sm'>
             &copy;{new Date().getFullYear()} Lenskart | All rights reserved | Privacy
+            <div>
+              <a href="" class="me-4 text-reset">
+                <i class="fab fa-facebook-f"></i>
+              </a>
+              </div>
           </p>
         </div>
+        {/* <div>
+              <a href="" class="me-4 text-reset">
+                <i class="fab fa-facebook-f"></i>
+              </a>
+              <a href="" class="me-4 text-reset">
+                <i class="fab fa-twitter"></i>
+              </a>
+              <a href="" class="me-4 text-reset">
+                <i class="fab fa-google"></i>
+              </a>
+              <a href="" class="me-4 text-reset">
+                <i class="fab fa-instagram"></i>
+              </a>
+              <a href="" class="me-4 text-reset">
+                <i class="fab fa-linkedin"></i>
+              </a>
+              <a href="" class="me-4 text-reset">
+                <i class="fab fa-github"></i>
+              </a>
+            </div> */}
       </div>
     </div>
   )
